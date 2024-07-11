@@ -33,6 +33,6 @@
       "subnet_type": "system"
     }
   },
-  "dfx": "0.13.1",
+  "dfx": "0.20.1",
   "version": 1
 }
